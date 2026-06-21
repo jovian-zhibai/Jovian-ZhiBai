@@ -6,13 +6,52 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 About Me
+
+<div align="center">
+  <p><strong>💻 Developer | 🚀 Builder | 🌟 Open Source Enthusiast</strong></p>
+  <p>Passionate about crafting elegant solutions and contributing to meaningful projects</p>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jovian-zhibai&theme=react-dark&hide_border=true&area=true&color=6366F1" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🔥 Contribution Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovian-zhibai&theme=dark&hide_border=true&background=000000&stroke=6366F1&ring=6366F1&fire=FF6B35&currStreakNum=A0AEC0&sideNums=A0AEC0&dates=A0AEC0" alt="GitHub Streak" width="100%" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <p><strong>Languages & Tools</strong></p>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+</div>
+
+---
+
+## 📈 GitHub Stats Overview
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=jovian-zhibai&show_icons=true&theme=transparent&hide_border=true&text_color=6366F1&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jovian-zhibai&show_icons=true&theme=transparent&hide_border=true&text_color=6366F1&title_color=6366F1&icon_color=FF6B35&rank_icon=github" alt="GitHub Stats" />
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovian-zhibai&layout=compact&theme=transparent&hide_border=true&text_color=6366F1&title_color=6366F1" alt="Top Languages" />
@@ -23,54 +62,19 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🌐 Connect with Me
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovian-zhibai&theme=dark&hide_border=true&background=000000&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=6366F1&sideNums=6366F1&dates=A0AEC0" alt="GitHub Streak" />
-</div>
-
----
-
-## 💡 Quick Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Repositories</strong><br>
-        <img src="https://img.shields.io/badge/20+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-      <td align="center">
-        <strong>Followers</strong><br>
-        <img src="https://img.shields.io/badge/10+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-      <td align="center">
-        <strong>Open Source</strong><br>
-        <img src="https://img.shields.io/badge/Contributor-6366F1?style=for-the-badge&logo=git&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <h3>🌟 Let's Connect 🌟</h3>
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jovian-zhibai)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox)](https://jovian-zhibai.github.io)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
   
 </div>
 
 ---
 
 <div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" width="100%">
-  </p>
-</div>
-
-<div align="center">
-  <p><em>⭐ Star my repos if you find them useful! 🚀</em></p>
-  <p><strong>Made with ❤️ | 2024</strong></p>
+  <p>⭐ If you find my work interesting, feel free to star! 🚀</p>
+  <p><strong>Happy coding! Made with ❤️</strong></p>
 </div>
