@@ -1,27 +1,26 @@
-## Hey, I'm Jovian-ZhiBai
+<div align="center">
 
-Building AI agents and automation workflows that let one person operate like a team.
+### Hey there 👋
 
-### What I'm working on
+# I'm Jovian-ZhiBai
 
-**[opc-agents](https://github.com/jovian-zhibai/opc-agents)** / **[opc-agent-claude](https://github.com/jovian-zhibai/opc-agent-claude)**
-One Person Company — an AI agent team that handles the work of an entire company, adapted for Claude Code.
+**Builder · AI Agent Architect · Automation Enthusiast**
 
-**[RevHive](https://github.com/jovian-zhibai/RevHive)**
-AI-powered multi-agent code review and security scanning. Catch bugs before they ship.
+I design AI agent systems and automation workflows<br>
+that let one person operate like an entire team.
 
-**[mcp-database](https://github.com/jovian-zhibai/mcp-database)**
-MCP server for querying and managing SQLite, PostgreSQL, and MySQL databases through Claude.
+<br>
 
-**[xhs-workflow](https://github.com/jovian-zhibai/xhs-workflow)**
-小红书图文笔记全流程工作流 — 从爆款拆解到发布，一站式完成。
+`Python` · `LLM` · `Multi-Agent` · `MCP` · `Workflow Automation`
 
-**[wxmp-workflow](https://github.com/jovian-zhibai/wxmp-workflow)**
-微信公众号全流程工作流 — 从发现灵感、撰写文章到直接发布。
-
-**[Mergewall](https://github.com/jovian-zhibai/Mergewall)**
-PR merge guardian — protecting your main branch.
+<br>
 
 ---
 
-<sub>Python · MCP · AI Agents · Workflow Automation</sub>
+*"One person, many agents."*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jovian-zhibai)
+
+</div>
